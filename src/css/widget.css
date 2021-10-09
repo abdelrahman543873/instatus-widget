@@ -1,0 +1,8 @@
+.widget {
+  border: none;
+  box-shadow: 0 20px 32px -8px rgba(9, 20, 66, 0.25);
+  z-index: 9999;
+  transition: left 1s ease, bottom 1s ease, right 1s ease;
+  margin: 25px;
+  border-radius: 20px;
+}
